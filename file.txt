@@ -3,3 +3,5 @@ secound line in file
 third line 
 fourth line in file
 fifeth line addedd
+6th line in the file
+7th line in the file
