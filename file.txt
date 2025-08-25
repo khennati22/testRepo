@@ -8,3 +8,8 @@ hello, git
 12th line in testing 2 branch
 13th line in testing 2 branch
 14th line in main
+
+16th, function()
+
+
+17th function2()
