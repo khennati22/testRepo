@@ -10,8 +10,4 @@ hello, git
 14th line in main
 
 16th, function()
-
-
-17th function2()
-
-18th function 3()
+17th function2UpdatedInDive()
